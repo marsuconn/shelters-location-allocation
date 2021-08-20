@@ -1,2 +1,2 @@
-# Shelters Location and ALlcation
+# Shelters Location and Alocation
 A stochastic two-stage model to locate emergency shelters as a modified capacitated shelter location problem.
